@@ -60,3 +60,4 @@ class StudentAdmin (admin.ModelAdmin):
 
 
 ## RESULT
+The program is executed successfully.
